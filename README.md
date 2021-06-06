@@ -11,10 +11,9 @@ Table of Content
 
 Demo
 
-Link: https://kidney26.herokuapp.com 
+Link: https://livercirrhosis.herokuapp.com/
 
-![Kidney](https://user-images.githubusercontent.com/36689965/117563128-78651800-b0c1-11eb-8179-44334502cc8c.JPG)
-
+![Liver](https://user-images.githubusercontent.com/36689965/120913831-bbfa7400-c6b7-11eb-9f9d-0724e9d20e19.JPG)
 
 Overview
 
@@ -64,6 +63,7 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 Technologies Used
 
 ![flask](https://user-images.githubusercontent.com/36689965/117563372-0ab9eb80-b0c3-11eb-9a6d-52962fd46e07.png)  ![python](https://user-images.githubusercontent.com/36689965/117563454-97fd4000-b0c3-11eb-866b-3929f09b6cbc.jpg)
-![heroku](https://user-images.githubusercontent.com/36689965/117563393-2ae9aa80-b0c3-11eb-9731-2c681ca645d6.png) ![sklearn](https://user-images.githubusercontent.com/36689965/117563487-e1e62600-b0c3-11eb-83bb-e6cb104408f2.png)
+![hero](https://user-images.githubusercontent.com/36689965/120913880-f06e3000-c6b7-11eb-9fdc-1d61368fade1.png)
+![sklearn](https://user-images.githubusercontent.com/36689965/117563487-e1e62600-b0c3-11eb-83bb-e6cb104408f2.png)
 
 
